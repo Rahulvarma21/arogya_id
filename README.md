@@ -144,7 +144,7 @@ On server startup, the database is seeded automatically with these mock profiles
 - **GET** `/api/claims/my` - Patient only. Returns list of submitted claims for current patient.
 - **GET** `/api/claims/:id` - Patient & Insurer. Returns full claim record and reviewer feedback.
 - **GET** `/api/claims` - Insurer only. Returns list of all claims in the system.
-- **PATCH** `/api/claims/:id` - Insurer only. Approves/rejects claim and submits comments/approved amount.
+- **POST** `/api/claims/:id` - Insurer only. Approves/rejects claim and submits comments/approved amount.
 
 ---
 
