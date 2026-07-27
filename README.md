@@ -150,14 +150,8 @@ On server startup, the database is seeded automatically with these mock profiles
 
 ## Media Placeholders
 
-### Screenshots
-* `[Login Screen Screenshot]`
-* `[Patient Dashboard Screenshot]`
-* `[Claim Submission Form Screenshot]`
-* `[Insurer Admin panel Screenshot]`
-
 ### Demonstration Video
-* `[Walkthrough demonstration video path]`
+* `[[Walkthrough demonstration video path]](https://drive.google.com/file/d/1Pnn2i6Zuqjj3a5bpiuaTyGagJKtmyIbN/view?usp=sharing)`
 
 ---
 
