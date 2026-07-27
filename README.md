@@ -74,8 +74,8 @@ cd arogya_id/claims-platform
 3. Create a `.env` file in the `server` root directory:
    ```env
    PORT=5000
-   MONGO_URI=mongodb://127.0.0.1:27017/claims-platform
-   JWT_SECRET=supersecretjwtkey12345
+   MONGO_URI=****
+   JWT_SECRET=****
    ```
    > [!NOTE]
    > Replace `MONGO_URI` with your MongoDB Atlas cluster URI if you are running it in production.
